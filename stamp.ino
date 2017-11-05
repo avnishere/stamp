@@ -637,11 +637,7 @@ void setup()
 
 
   // Mode of Operation Choice Screen
-
-
-
-
-  // Mode of Operation Choice Screen
+  
 
   if (machine == 1 || machine == 2) {
 
